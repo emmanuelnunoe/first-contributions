@@ -30,6 +30,7 @@
 [Richard Ruge](https://github.com/richardruge/first-contributions)
 - [Omazdev](https://github.com/omazdev)
 - [Abhilash Reddy](https://github.com/abhilashreddys)
+- [Emmanuel Nuno](https://github.com/emmanuelnunoe
 - [Bryant Juspi] (https://github.com/bjuspi)
 - [Neenus Gabriel](https://github.com/neenus)
 - [Md. Pial Ahamed](https://github.com/mdPial)
